@@ -1,0 +1,16 @@
+{
+  "name": "webtemplate-js",
+  "version": "1.0.2",
+  "main": "index.js",
+  "bin": {
+    "template": "./bin/template.js"
+  },
+  "scripts": {
+    "create": "node ./bin/template.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Erick Rodriguez Bárcena",
+  "license": "ISC",
+  "description": "A simple Web Template"
+}
