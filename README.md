@@ -21,10 +21,10 @@ npm install -g @arrivaldo7/webtemplate-js
 Usage
 After installation, you can create a new web template by running: template
 
-
-Contributing
+```
+## Contributing
 Contributions are welcome! If you’d like to improve the library or fix bugs, please fork the repository and submit a pull request.
 
 
-Author
+## Author
 Created Erick Rodriguez Bárcena.
