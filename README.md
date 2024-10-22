@@ -27,4 +27,4 @@ Contributions are welcome! If you’d like to improve the library or fix bugs, p
 
 
 ## Author
-Created Erick Rodriguez Bárcena.
+Created by Erick Rodriguez Bárcena.
